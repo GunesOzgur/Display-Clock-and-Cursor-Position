@@ -1,0 +1,16 @@
+SGM_BLUE_BMP BITMAP "img_src/SgmBlue.bmp"
+SGM_BLACK_BMP BITMAP "img_src/SgmBlack.bmp"
+SGM_WHITE_BMP BITMAP "img_src/SgmWhite.bmp"
+
+SGM_MASK0_BMP BITMAP "img_src/SgmMask0.bmp"
+SGM_MASK1_BMP BITMAP "img_src/SgmMask1.bmp"
+SGM_MASK2_BMP BITMAP "img_src/SgmMask2.bmp"
+SGM_MASK3_BMP BITMAP "img_src/SgmMask3.bmp"
+SGM_MASK4_BMP BITMAP "img_src/SgmMask4.bmp"
+SGM_MASK5_BMP BITMAP "img_src/SgmMask5.bmp"
+SGM_MASK6_BMP BITMAP "img_src/SgmMask6.bmp"
+SGM_MASK7_BMP BITMAP "img_src/SgmMask7.bmp"
+SGM_MASK8_BMP BITMAP "img_src/SgmMask8.bmp"
+SGM_MASK9_BMP BITMAP "img_src/SgmMask9.bmp"
+
+SGM_COLON_BMP BITMAP "img_src/Colon.bmp"
