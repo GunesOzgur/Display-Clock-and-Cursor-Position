@@ -239,9 +239,6 @@ int WINAPI WinMain(	HINSTANCE hInstance,
 		return 0;
 	}
 
-	//PlaySound("Sine1000hz-1s.wav", GetModuleHandle(NULL),
-	//			SND_FILENAME | SND_ASYNC );
-
 	Hwnd = CreateWindowEx(	WS_EX_CLIENTEDGE,
 				Wnd_szClassName,
 				"System Clock",
